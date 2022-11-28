@@ -1,0 +1,237 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+
+/* screen size styling*/
+.v56_3 {
+  width: 430px;
+  height: 932px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  
+  overflow: hidden;
+}
+.v56_11 {
+  width: 434px;
+  height: 932px;
+  background: url("../images/v56_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+ 
+  overflow: hidden;
+}
+
+.overlay{
+  width: 434px;
+  height: 932px;
+  position: absolute;
+  background-color: rgba(0,0,0,0.5);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  
+}
+
+.v56_15 {
+  width: 317px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 445px;
+  left: 57px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v64_5 {
+  width: 238px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 278px;
+  left: 46px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: center;
+}
+.v64_2 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 173px;
+  left: 77px;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 90px;
+  opacity: 1;
+  text-align: center;
+}
+.v64_19 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 173px;
+  left: 77px;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 90px;
+  opacity: 1;
+  text-align: center;
+}
+.v64_4 {
+  width: 76px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 298px;
+  left: 85px;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
+.v56_18 {
+  width: 178px;
+  height: 65px;
+  background: rgba(221,203,45,1);
+  opacity: 1;
+  position: absolute;
+  top: 563px;
+  left: 126px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  overflow: hidden;
+  cursor:pointer;
+}
+.v56_19 {
+  width: 99px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 582px;
+  left: 166px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+  cursor:pointer;
+}
+.v56_20 {
+  width: 157px;
+  color: url("../images/v56_20.png");
+  position: absolute;
+  top: 820px;
+  left: 135px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 10px;
+  opacity: 1;
+  text-align: center;
+}
+.v56_21 {
+  width: 107px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 31px;
+  left: 40px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v60_60 {
+  width: 37px;
+  color: rgba(221,203,45,1);
+  position: absolute;
+  top: 31px;
+  left: 147px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v56_22 {
+  width: 37px;
+  height: 47px;
+  background: rgba(255,255,255,0);
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 374px;
+  overflow: hidden;
+}
+.v56_23 {
+  width: 27px;
+  height: 5px;
+  background: url("../images/men.png");
+  opacity: 1;
+  position: fixed;
+  padding:20px;
+  top: 30px;
+  left: 350px;
+  cursor:pointer;
+}
+
+.v60_58 {
+  width: 5px;
+  height: 5px;
+  background: rgba(221,203,45,1);
+  opacity: 1;
+  position: absolute;
+  top: 47px;
+  left: 60px;
+  border-radius: 50%;
+}
+.v60_59 {
+  width: 5px;
+  height: 5px;
+  background: rgba(221,203,45,1);
+  opacity: 1;
+  position: absolute;
+  top: 47px;
+  left: 101px;
+  border-radius: 50%;
+}
+.v64_6 {
+  width: 131px;
+  height: 49px;
+  background: rgba(221,203,45,1);
+  opacity: 1;
+  position: absolute;
+  top: 309px;
+  left: 161px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  overflow: hidden;
+}
+.v64_3 {
+  width: 106px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 326px;
+  left: 178px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
